@@ -1,5 +1,6 @@
 # HTTP-STATUS-IMAGES
-This is a repo of all the websites for http status images! I hope you have fun exploring them!
+![200 HTTP Code Duck](https://httpducks.com/200.jpg)
+This is a repo of all the websites for HTTP status images! I hope you have fun exploring them!
 \
 [https://http.cat](https://http.cat)\
 [https://http.dog](https://http.dog) alternative: (different images) [https://httpstatusdogs.com](https://httpstatusdogs.com)\
