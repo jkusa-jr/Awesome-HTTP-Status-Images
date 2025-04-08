@@ -1,4 +1,4 @@
-# HTTP-STATUS-IMAGES
+# Awesome HTTP Status Images
 ![200 HTTP Code Duck](https://httpducks.com/200.jpg)\
 This is a repo of all the websites for HTTP status images. I hope you have fun exploring them!
 \
