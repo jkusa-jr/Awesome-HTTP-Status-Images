@@ -8,4 +8,5 @@ This is a repo of all the websites for http status images! I hope you have fun e
 [https://http.fish](https://http.fish)\
 [https://http.garden](https://http.garden)\
 \
-To get the spesific image error code read the docs on the sites or use this format: https://{Site URL}/{error code}.jpg
+To get the spesific image error code read the docs on the sites or use this format:\
+https://{Site URL}/{error code}.jpg
