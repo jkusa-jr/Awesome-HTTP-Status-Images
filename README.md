@@ -10,4 +10,4 @@ This is a repo of all the websites for HTTP status images. I hope you have fun e
 [https://http.garden](https://http.garden)\
 \
 To get the spesific image error code read the docs on the sites or use this format:\
-https://{Site URL}/{error code}.jpg
+https://{Site URL}/{error code}.jpg ([https://httpstatusdogs.com](https://httpstatusdogs.com) needs to be [https://httpstatusdogs.com/img/](https://httpstatusdogs.com/img/))
