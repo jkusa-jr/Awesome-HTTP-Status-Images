@@ -8,4 +8,3 @@ This is a repo of all the websites for HTTP status images. I hope you have fun e
 [https://httpgoats.com](https://httpgoats.com)\
 [https://http.fish](https://http.fish)\
 [https://http.garden](https://http.garden)\
-\
